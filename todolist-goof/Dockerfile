@@ -1,5 +1,4 @@
-FROM maven:3-jdk-8-slim as build
-
+FROM openjdk:24-ea-15-oraclelinux8
 
 
 
