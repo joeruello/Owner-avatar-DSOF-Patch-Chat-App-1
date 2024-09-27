@@ -1,2 +1,2 @@
-FROM maven:3-jdk-8-slim as build
+FROM maven:3.9.8-amazoncorretto-8-al2023 as build
 
